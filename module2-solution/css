@@ -1,1 +1,10 @@
 
+#box {
+	float : left;
+	boarder : 1px, solid black; 
+	Background-color : grey
+	padding : 2px
+	width : 100 px
+	box-sizing : border-box
+	}
+

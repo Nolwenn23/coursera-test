@@ -6,14 +6,13 @@
 
 /**header**/
 
-#header-nav a {
+#header-nav .navbar-brand {
 	font-family:impact, arial, sans cherif;
 	color: white;
 	font-size: 3em;
 	text-transform: uppercase;
 	text-shadow: black;
 	float: left;
-	border: none;
 }
 
 #header-nav {
@@ -21,6 +20,19 @@
 	padding-top: 25px;
 	padding-bottom: 25px;
 	clear: both;
+	color: white;
+}
+
+#collapse-nav {
+	background-color:purple;
+	font-family: impact;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	text-shadow: black;
+	border-color: black;
+	border : white;
+	border-radius: 5px;
 }
 
 

@@ -1,0 +1,56 @@
+<style>
+
+* {
+	box-shadow: border-box;
+}
+
+/**header**/
+
+#header-nav a {
+	font-family:impact, arial, sans cherif;
+	color: white;
+	font-size: 3em;
+	text-transform: uppercase;
+	text-shadow: black;
+	float: left;
+	border: none;
+}
+
+#header-nav {
+	background-color: purple;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	clear: both;
+}
+
+
+/** END HEADER**/
+
+
+/**CONTENT**/
+.page-title {
+	font-family: impact, arial, sans-cherif;
+	padding: 15px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 2em;
+}
+
+#section-1, #section-2, #section-3 {
+	text-align: justify;
+	font-family: arial;
+	background-color: grey;
+	padding: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 30px;
+}
+
+h3 {
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+</style>
